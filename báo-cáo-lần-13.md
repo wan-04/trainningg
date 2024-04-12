@@ -19,7 +19,6 @@
 - [rot13](https://wan.io.vn/posts/ACSC-2024/#rot13)
 - [fleeda](https://wan.io.vn/posts/ACSC-2024/#fleeda)
 - [life-simulation](https://wan.io.vn/posts/ACSC-2024/#life-simulation)
-- [link challenge](https://github.com/wan-04/CTF-2024/tree/main/acsc2024)
 
 #### VolgaCTF 2024
 
