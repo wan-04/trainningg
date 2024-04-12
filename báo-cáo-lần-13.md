@@ -4,6 +4,8 @@
 
 ### 1. CTF
 
+- Admin_Panel, Confinement, Five, Janky, Rift, Shrink, Super Lucky 7/9 [link](https://github.com/wan-04/CTF-2024/tree/main/TAMUctf_2024/Pwn)
+
 ### 2. Wargame
 
 ## II. Research và Writeup
