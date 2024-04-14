@@ -8,6 +8,9 @@
 
 ### 2. Wargame
 
+![image](https://wan.io.vn/assets/2024-04-13-Sherlocks%20HTB/2024-04-13-03-20-41.png)
+![](https://wan.io.vn/assets/2024-04-13-Sherlocks%20HTB/2024-04-13-03-20-56.png)
+
 ## II. Research và Writeup
 
 ### 1. Research
