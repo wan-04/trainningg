@@ -31,4 +31,4 @@
 
 # 3. RESEARCH
 
-- 3 House và 1 kĩ thuật heap, tự viết 4 chall để mô phỏng và khai thác 4 kĩ thuật
+- 3 House và 1 kĩ thuật heap, tự viết 4 chall để mô phỏng và khai thác 4 kĩ thuật. Em sẽ public sau.
