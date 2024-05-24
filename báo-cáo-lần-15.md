@@ -23,4 +23,15 @@
 
 # 2. Research
 
+## House of Corrosion
+
+https://wan.io.vn/posts/House-of-Corrosion/
+
 ## House of Tangerine
+
+https://wan.io.vn/posts/House-of-Tangerine/
+
+## House of Water
+
+- Em viết chall và khai thác gần xong
+- Em dự định viết House of Rust và House of Emma (vì chưa có POC nên cần thời gian để khai thác)
